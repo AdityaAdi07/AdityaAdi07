@@ -1,5 +1,6 @@
 # 💫 About Me:
-<img width="1892" height="712" alt="image" src="https://github.com/user-attachments/assets/d6cec87e-36cb-4abb-ac9b-ddb564483227" />
+<img width="1482" height="639" alt="image" src="https://github.com/user-attachments/assets/770e5461-a64c-46af-8bd1-80d2331531b0" />
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditya_adi717) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/aditya7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sushmaaditya717@gmail.com) 
@@ -17,4 +18,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AdityaAdi07&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
